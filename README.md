@@ -1,0 +1,1 @@
+# A moving search bar with closing and opening
